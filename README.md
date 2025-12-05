@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Lys
+# ¡Hola! 👋 Soy Joselys
 
 🎓 Python Trainee en Alkemy 
 📚 Estudiante con proyectos universitarios en análisis de datos, automatización y desarrollo backend  
