@@ -1,16 +1,16 @@
-## Hi there 👋
+# Sistema de Gestión de Ventas
+Proyecto realizado en el bootcamp Python Trainee.
 
-<!--
-**JoselysHernandez/JoselysHernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Descripción
+Aplicación en Python que gestiona clientes, productos y ventas.
 
-Here are some ideas to get you started:
+## Tecnologías
+- Python 3.11
+- SQLite
+- Pandas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ejecución
+```bash
+git clone https://github.com/usuario/sistema-ventas
+cd sistema-ventas
+python main.py
