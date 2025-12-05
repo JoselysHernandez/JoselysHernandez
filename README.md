@@ -1,16 +1,18 @@
-# Sistema de Gestión de Ventas
-Proyecto realizado en el bootcamp Python Trainee.
+# ¡Hola! 👋 Soy Lys
 
-## Descripción
-Aplicación en Python que gestiona clientes, productos y ventas.
+🎓 Python Trainee en Alkemy 
+📚 Estudiante con proyectos universitarios en análisis de datos, automatización y desarrollo backend  
+🌱 Aprendiendo y creciendo en el mundo del desarrollo con Python
 
-## Tecnologías
-- Python 3.11
-- SQLite
-- Pandas
+## 🛠 Actualmente trabajando en:
+- Proyectos de automatización con Python
+- Desarrollo de scripts para tareas académicas
 
-## Ejecución
-```bash
-git clone https://github.com/usuario/sistema-ventas
-cd sistema-ventas
-python main.py
+## 🤝 Buscando colaborar en:
+- Proyectos open source en Python
+- Equipos que valoren el aprendizaje y la mejora continua
+
+---
+
+📍 Santiago, Chile  
+🧠 Apasionada por la organización, el aprendizaje visual y el trabajo en equipo
